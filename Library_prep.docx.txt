@@ -1,0 +1,80 @@
+﻿Tagmentation:
+Load Tn5:
+
+
+Reagents:
+• 100 uM Tn5 A and B oligo
+• 100 uM Tn5 R oligo
+1. Add equal volumes of 100 uM A oligo to R oligo
+2. Add equal volumes of 100 uM B oligo to R oligo
+3.  Anneal using:
+95C 5 minutes
+25C (-0.1C/s)
+Hold 25C
+4. Add .143uL of annealed oligo to 1 uL of Tn5 per rxn and incubate for 1 hour at RT
+5. Add equal volumes of A Tn5 and B Tn5 in tube and mix via pipetting.
+        DNA tagmentation:
+        Per rxn:
+Tn5
+	1uL
+	DEPC H2O
+	14uL
+	5x TAPS-PEG 8000
+	4uL
+	DNA input
+	1uL
+	Total volume
+	20uL
+	
+
+1. Incubate each reaction at 55C for 7 minutes.
+2. Kill Tn5 by adding 5uL of .2% SDS and let sit at RT for 7 minutes
+PCR Indexing and amplification:
+1. Make a master mix with the following per rxn:
+DEPC H2O
+	11.75uL
+	5x KAPA HiFi buffer
+	5uL
+	dNTPs
+	.75uL
+	HiFi polymerase
+	.5uL
+	Total
+	18uL
+	1. Add separately to each rxn:
+
+
+
+
+i7 index primer
+	1uL
+	i5 index primer
+	1uL
+	Tn5 product
+	5uL
+	Total
+	25uL
+	
+
+Run on following protocol:
+1. 72C 5 minutes
+2. 95C 3 minutes
+3. 98C 20 sec
+4. 65C 15 sec
+5. 72C 30 sec
+6. Repeat from step 2 10x
+7. 72C for 5 minutes
+8. Hold at 4C
+Purify library:
+1. Bring AMPURE XP beads up to RT ~20 minutes
+2. Add 40uL of beads to each reaction and mix via pipetting 10 times.
+3. Let incubate for 5 minutes.
+4. Place on magnet until solution is clear and draw out supernatant without disturbing bead pellet
+5. Wash bead pellet on magnet 2x with 180uL of 80% EtOH.
+6. Spin down and magnet then remove remaining EtOH with P2/10
+7. Let air dry till all EtOH has evaporated and pellet begins to crack.
+8. Resuspend beads with 15-25 uL of TE/10mM Tris/DEPC H2O and incubate for 2-5 minutes
+9. Place on magnet until solution is clear and collect the supernatant and put into fresh .2mL tube
+QC:
+1. Use Qubit to quantify concentration.
+2. Use Tapestation (Social Sciences) to determine fragment size distribution.

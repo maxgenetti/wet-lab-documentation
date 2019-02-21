@@ -1,0 +1,238 @@
+﻿Day 1:
+Sample Fixing and Lysis
+
+
+Lysis buffer (Prepare fresh every time -- 1mL needed per sample):
+Stock
+	Volume
+	Final
+	1M HEPES (pH = 7.6)
+	50uL
+	10mM
+	5M NaCl
+	10uL
+	10mM
+	10% IGEPAL CA-630
+	100uL
+	0.20%
+	25x Protease Inhibitors
+	200uL
+	1x
+	0.1M DTT
+	50uL
+	1mM
+	DEPC H2O
+	4.576mL
+	
+
+	Total
+	5mL
+	
+
+	
+
+
+
+CORBETT LAB
+1. Put 10-20 flies in each 1.5mL tube.
+2. Freeze flies in Liquid Nitrogen, or put the tubes on dry ice 
+3. Crush up flies to fine powder with a plastic pestle
+4. Add 1mL of ice cold PBS and 40.5 uL of 37% Formaldehyde.
+5. Vortex thoroughly and place on rotor/shaker at room temp for at least 30 minutes.
+6. Add 50uL of 2.5 M Glycine, vortex well, and incubate on rotor for another 5-10 minutes at room temp.
+7. Pellet on microcentrifuge and discard supernatant
+8. Wash with 1 mL ice cold PBS, pellet and then discard supernatant.
+9. Add a reasonable number of garnet beads (I usually eyeball this)
+10. Add 1mL of Lysis buffer (as per normal recipe)
+11. Tape the tubes to the vortexer real good, and turn it on to homogenize the sample for 20-30 minutes, or until fully homogenized. 
+12. Place the tubes on ice for 10-15 more minutes to lyse. 
+13. Aspirate the lysate using the garnet beads as a filter to get the least amount of chitin into tip and transfer to siliconized tube. (It’s not a big deal if you get some, but the less the better)
+14. Pellet for 5 minutes in microcentrifuge tube, and discard supernatant.
+15. Wash with 1 mL of Lysate Wash Buffer, pellet for 5 minutes, discard supe.
+16. Resuspend pellet in 50uL of Lysate wash buffer +2.5uL of 20% SDS.
+17. Incubate at 37C for 15 minutes on shaker if in Green Lab, or on hot block vortexing every 1-2 minutes in Corbett lab.
+18. Quantify 1uL of sample on Qubit 
+   1. If measurement is 15ng/uL or less use entire volume for SPRI bead binding
+   2. If measurement is >15 ng/uL use an amount equivalent to <800ng total.
+   3. Rest can be saved at 4c for 1 week
+1. Add 50uL of sample to 100uL of SPRI beads in .2mL tubes; bind for 5-10 minutes. If volume of sample is <50uL fill to 50 with Lysate Wash Buffer
+2. Magnet 5 minutes and discard supernatant carefully. Remove as much liquid as possible using P2/10/20 as necessary.
+3. Wash 3x with 180uL of HiC SPRI WashBuffer.
+
+
+DpnII Digest (GREEN LAB)
+Resuspend beads in 50uL of the following mix:
+H2O
+	42.5uL
+	10x DpnII buffer
+	5 uL
+	100mM DTT
+	.5uL
+	DpnII
+	2uL
+	Total
+	50uL
+	
+
+1. Digest for an hour at 37c with shaking
+2. Wash twice with 180uL HiC SPRI Wash Buffer
+End Fill-in
+        Resuspend beads in 50uL of the following mix
+H2O
+	37uL
+	10x NEB Buffer #2
+	5uL
+	1mM Biotin dCTP
+	4uL
+	10mM dATP, dGTP, dTTP
+	1.5uL
+	100mM DTT
+	.5uL
+	Klenow
+	2uL
+	Total
+	50uL
+	
+
+1. Incubate for 30 minutes at 25c with shaking
+2. Wash twice with 180uL HiC SPRI Wash Buffer
+Intra-Aggregate DNA End Ligation
+Resuspend beads in 200uL of ligation mix. BE CAREFUL TO NOT VORTEX LIGASE
+H2O
+	171uL
+	10x NEB T4 DNA Ligase buffer
+	20uL
+	100 mM ATP
+	1uL
+	BSA
+	1uL
+	10% Triton X-100
+	5uL
+	T4 DNA Ligase
+	2uL
+	Total
+	200uL
+	1. Ligate overnight in thermocycle or shaker at 16c. 
+
+
+
+
+
+
+Day 2:
+Crosslink Reversal
+Crosslink Reversal mix
+	48.5uL
+	Proteinase K (20mg/uL)
+	1.5uL
+	Total
+	50uL
+	
+
+1. Magnet reactions then resuspend in 50uL of Crosslink reversal mix.
+2. Digest 15 minutes at 55C, then 45 minutes at 68C w/ shaking
+SPRI Purification
+1. Magnet reactions; transfer SUPERNATANT to clean .2mL tube
+2. Add 100uL of SPRI beads to each; pipette to mix ~10 times. Bind 5-10 minutes.
+3. Magnet until clear and discard supernatant.
+4. Wash 2x with 180uL of fresh 80% EtOH
+5. Spin down tubes and remove remaining EtOH w/ P10/20
+6. Air dry on magnet for 5-7 minutes.
+7. Resuspend beads with 22-52uL TE.
+8. Elute on magnet for 3-5 minutes
+9. Magnet and transfer eluted sample to fresh .2mL tube.
+10. Qubit 1uL of HiC DNA template. 
+Tn5 library prep
+        Tn5 reagents kept in CORBETT LAB in -20c 
+1. Make adapters:
+Combine equal volume of A and R and B and R respectively
+Anneal using:
+95C 5 minutes
+25C (-0.1C/s)
+Hold 25C
+
+
+1. Add .143 uL of A/R or B/R to 1 uL of Tn5 
+RT for 60 minutes        
+1. Mix Tn5 A and Tn5 B in equal volumes. 
+2. Transposase reaction:
+Use 50-100ng of DNA
+
+
+DEPC H2O
+	9 - X uL
+	DNA template
+	X uL
+	Tn5
+	5 uL
+	5x TAPS-PEG
+	4uL
+	Total
+	18uL
+	1. Incubate at 55C for 7 minutes
+2. Add 2 uL of 2% SDS and incubate for 7 minutes at RT
+3. Add 5uL of 100mM DTT
+4. Concentrate 25uL C1 beads/reaction and remove supernatant
+5. Wash bead pellet:
+   1. 1x 200uL TWB
+   2. 1x 200uL 2xNTB
+1. Resuspend beads in 25 uL 2x NTB/reaction
+2. Mix sample with 25uL C1 beads and incubate 30-45 minutes with shaking at RT.
+3. Concentrate and wash beads with:
+   1. 2x 180uL LWB 
+   2. 3x 180uL NWB
+   3. 2x 180uL TWB
+1. Bst fill-in:
+Resupend beads in:
+NEBuffer 2 or Thermopol buffer
+	2uL
+	dH2O
+	16uL
+	25mM dNTPs
+	1uL
+	Bst DNA pol
+	3uL
+	Total volume
+	22uL
+	
+
+   1. Incubate at 37C for 30-45 minutes with shaking
+   2. Wash 2x 180uL TWB
+CORBETT LAB
+PCR Indexing and amplification:
+   1. Make a master mix with the following per rxn:
+DEPC H2O
+	23uL
+	2x KAPA HotStart ReadyMix
+	25uL
+	Total
+	48
+	   1. Add separately to each rxn:
+i5 index primer (A)
+	1uL
+	i7 index primer (B)
+	1uL
+	Total
+	50uL
+	
+
+Run on following protocol:
+Run on following protocol:
+1. 98C 3 minutes
+2. 98C 20 sec
+3. 65C 30 sec
+4. 72C 30 sec
+5. Repeat from step 2 10x
+6. 72C for 5 minutes
+7. Hold at 4C
+Purify library:
+   1. Bring AMPURE XP beads up to RT ~20 minutes
+   2. Concentrate reaction and collect supernatant. Transfer into fresh .2mL tube.
+   3. Add 80uL of beads to each reaction and mix via pipetting 10 times.
+   4. Let incubate for 2 minutes.
+   5. Place on magnet until solution is clear and draw out supernatant without disturbing bead pellet
+   6. Wash bead pellet on magnet 2x with 180uL of 80% EtOH.
+   7. Spin down and magnet then remove remaining EtOH with P2/10
+   8. Let air dry till all EtOH has evaporated and pellet begins to crack.
+   9. Resuspend beads with 15-25 uL of TE/10mM Tris/DEPC H2O and incubate for 2-5 minutes
+   10. Place on magnet until solution is clear and collect the supernatant and put into fresh .2mL tube

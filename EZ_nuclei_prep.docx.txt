@@ -1,0 +1,40 @@
+﻿Nuclei extraction
+
+
+Nuclei Isolation:
+        Before starting the protocol begin cooling down a bucket centrifuge to 4C.
+Wash flies
+1. Collect 2-4 mLs of flies into 15mL Falcon tube.
+2. Wash flies with 2-3x volume of 50% Bleach
+3. Wash with 1-2x volume of sterile mqH2O
+4. Wash with 1-2x volume of 80% EtOH
+5. Wash with 1-2xvolume of sterile mqH2O
+6. Wash with 1-2xvolume of ice cold 1xPBS
+Lysis
+1. Add 4mLs of ice cold Nuclei EZ Lysis buffer to falcon tube and transfer contents to dounce homogenizer
+2. Place pestle into mortar and cover the opening with two strips of parafilm to prevent splashing.
+3. Homogenize thoroughly taking care to not release the pestle when cavitating or YOU WILL BREAK THE GLASS.
+4. Incubate on ice for 5 minutes.
+5. Place 40 um cell strainer on 50mL falcon tube and strain homogenate through 2-3x.
+6. Pour homogenate into clean 15mL falcon tube.
+Isolation
+        The following steps are performed exactly as the Nuclei EZ lysis protocol
+1. Centrifuge homogenate at 500xg at 4C for 5 minutes.
+2. Discard supernatant carefully to not disturb pellet.
+3. Wash nuclei with 4mL of ice cold Nuclei EZ lysis buffer by first adding 500uL then vortexing. Then add remaining 3.5mLs. Set on ice for 5 minutes.
+4. Centrifuge at 500xg at 4C for 5 minutes.
+5. Discard supernatant and set pellet on ice.
+6. Resuspend pellet in 200uL of ice cold Nuclei EZ storage buffer by gently pipetting.
+7. Transfer final suspension to a tube for storage at -80C.
+DAPI Staining QC
+1. Gently mix nuclei suspension and transfer 20-50uL of suspension to 1.5mL tube.
+2. Centrifuge tube at 300xg or slower for 5 minutes.
+3. Discard supernatant.
+4. Resuspend pellet in 1mL of DAPI stain and incubate for 15 minutes.
+5. Centrifuge at 300xg for 5 minutes to pellet nuclei.
+6. Discard supernatant.
+7. Resuspend pellet in original volume of storage buffer.
+8. Pipette 2-5uL of DAPI stained nuclei onto a slide and place a coverslip over sample.
+9. Use nail polish to seal the coverslip to the slide.
+10. Place finished slide into an opaque container in the fridge. Slides should be good for up to a week. DAPI stained nuclei can be stored in freezer indefinitely?
+11. Use a widefield microscope to visualize nuclei.

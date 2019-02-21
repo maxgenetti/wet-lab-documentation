@@ -1,0 +1,45 @@
+﻿Lysis buffer (50mM Tris, 100 mM EDTA, 100mM NaCl, .5% SDS)
+	71uL
+	Proteinase K
+	4uL
+	Total
+	75uL
+	High-throughput gDNA extraction
+Fly Lysis:
+Complete lysis buffer recipe per lysis:
+
+
+
+
+
+
+
+
+1. Prepare flies on 96 well plate and keep on ice.
+2. Make a master mix of complete lysis buffer and add entire volume to a reagent reservoir.
+3. Use the P200 multichannel to aspirate 70 uL of lysis solution and with the pipette tip crush the flies and slowly release the liquid as you crush.
+4. Continue to squish the flies until solution changes color and bodies are well squished.
+5. Repeat for all wells.
+6. Tightly seal plate with several foils and spin down briefly to draw liquid to bottom of well.
+7. Place into thermocycler under following conditions:
+55C 18 hours
+68C 1 hour
+Hold 4C
+Note:
+Lysis could probably be reduced to less time, but I wouldn’t go under 6-8 hours.
+
+
+DNA extraction:
+1. Bring SPRI/Ampure XP beads up to room temperature ~ 20 minutes.
+2. Vortex briefly then spin down plate to get chitin to float to bottom.
+3. Collect 50uL of lysate from each well being careful not draw bodies/chitin and deposit into new 96 well plate.
+4. Add 75uL of SPRI beads to each well containing the lysate and pipette to mix ~10 times.
+5. Incubate at room temperature for 5-10 minutes.
+6. Use magnet to pellet beads and discard supernatant
+7. Wash with 180uL of 80% EtOH on the magnet by pipetting up and down. Repeat 3x
+8. Spin down plate to draw remaining EtOH to bottom and remove with P10 multichannel.
+9. Allow to air dry until pellet has begun to crack ~10 minutes.
+10. Resuspend the pellet in 20uL of DEPC H2O to elute.
+11. Incubate at room temperature for 5-10 minutes.
+12. Place on magnet until solution is clear and collect 18.5uL of supernatant and place into fresh 96 well plate. 
+13. Use Qubit/Plate reader to quantify genomic DNA.
