@@ -1,0 +1,35 @@
+﻿Phenol-Chloroform Extraction
+
+
+Reagents:
+* Phenol-Chloroform: isoamyl
+* Chloroform: isoamyl
+* 100% Ethanol
+* 80% Ethanol
+* 7.5M Ammonium Acetate
+* Glycogen
+* 10mM Tris-HCl
+
+
+Protocol:
+
+
+PERFORM ALL STEPS WITH PHENOL/CHLOROFORM IN FUME HOOD
+
+
+1. Set temperature-controlled centrifuge to 4 degrees Celsius. 
+2. Add 200 µL of Phenol-Chloroform to 200 µL of cell lysate in 1.5 mL tube. Vortex for 60 seconds and centrifuge at room temperature and max speed for 5 minutes. 
+3. Carefully extract top aqueous layer without collecting any of the organic/interphase (approx. 180 µL) into new 1.5 mL tube.
+4. Add 200 µL of 10mM Tris-HCl to organic layer. Vortex for 60 seconds and centrifuge at room temperature and max speed for 5 minutes. 
+5. Carefully extract top aqueous layer without collecting any of organic/interphase (approx. 180 µL) and combine with tube containing previous aqueous layer. 
+6. Discard tube containing organic layer into proper waste container. 
+7. Add approx. 360 µL of Chloroform:Isoamyl (equal to volume of aqueous layer) to the tube containing the aqueous layer. Vortex for 60 seconds and centrifuge at room temperature and max speed for 5 minutes. 
+8. Carefully extract top aqueous layer without collecting any of the organic/interphase (approx. 350 µL) into new 1.5 mL tube.
+9. Discard tube containing organic waste into proper waste container. 
+10. Add 35 µL of ammonium acetate, 1 µL of glycogen, and 750 µL of 100% EtOH to tube. Mix well by hand. Centrifuge at 4 degrees Celsius at max speed for 20 minutes. 
+11. Carefully discard supernatant without disturbing pellet. 
+12. To wash, add 300 µL of 80% EtOH then vortex briefly. Centrifuge at 4 degrees Celsius at max speed for 15 minutes. 
+13. Carefully discard supernatant without disturbing pellet. 
+14. Repeat step 11-12
+15. Spin down tubes in microcentrifuge to draw residual EtOH. Remove with P20 and let air dry for approx. 5 minutes. 
+16. Resuspend pellet in 20-50 µL of 10 mM Tris-HCl depending on size of pellet.
