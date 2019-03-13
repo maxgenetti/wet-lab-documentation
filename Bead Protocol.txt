@@ -1,0 +1,42 @@
+﻿*All reagents should be brought up to room temperature before use*
+
+
+Making SPRI Beads
+
+
+Materials
+* Sera-mag SpeedBeads (1 mL)
+* PEG 8000 (9g)
+* TE Buffer (3mL, composed of .5 M EDTA and 1.0 M Tris, both at ph 8.0)\
+* * Tween 20 (27.5 μL)
+* 5M NaCl (10 mL)
+
+
+Making TE:
+* 10 mM Tris-HCl (500 μL)
+* 1 mM EDTA (100 μL)
+* 
+
+        Fill into 50 mL conical vial and fill w/ H20. 
+
+
+Wash Beads:
+
+
+1 mL mixed beads => ep tube => magnet, pipet supernatant
++ 1 mL TE, mix, return to magnet, pipet supernatant
++ 1 mL TE mix, let stand (this will later be added)
+
+
+In 50 mL conical:
+* 9g PEG 8000
+* 10 mL 5M NaCl
+* 500 μL 1M Tris-HCl
+* * 100 μL 0.5M EDTA
+* * Fill to 49 mL using dH20, mix until clear. 
+* Add 27.5 μL Tween 20 & mix gently (10% Tween 20)
+* Bead solution, mix until brown. 
+
+
+Testing beads: .5 .6 .7 .8 .9 1 1.1 1.2 1.3 (bead : 1 ladder)
+10 μL ladder as sample
