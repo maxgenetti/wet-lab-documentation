@@ -1,0 +1,13 @@
+﻿Simple Genomic DNA Prep
+
+
+Reagents
+* Squish Buffer
+* Proteinase K
+
+
+Protocol:
+1. Collect flies to have their DNA extracted into PCR tubes - either single, rack or plate. Keep these on ice - using either the plate cooler from the freezer, or just a bucket of ice. 
+2. Make master mix of 50 µL squish buffer + 1 µL Proteinase K per fly. Vortex well, then spin down. 
+3. For each well, pull 50 µL of master mix into a micropipetter, and, keeping the mix in the tube, crush the fly with the pipet tip while slowly releasing the solution. Continue to squish until the fly is thoroughly masticated - a good rule of thumb is when the fly’s eyes are crushed and release their pigment into the master mix, it is sufficiently homogenized. 
+4. Place on thermocycler and set the sample for 55 degrees Celsius for 1-24 hours, followed by 15 minutes at 95 degrees Celsius to denature the Proteinase K.
