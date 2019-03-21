@@ -1,0 +1,21 @@
+﻿10x TE (Tris-EDTA) Buffer (1 Liter)
+
+Reagents
+
+
+* 15.756g Tris-HCl
+* 3.722g EDTA
+* ~1 L mqH2O
+
+
+Instructions:
+
+
+1. Add Tris and EDTA to beaker
+2. Fill to ~800 mL with mqH2O.
+3. Add stir bar to beaker and put her on hot plate. Turn stir on medium to low.
+4. Bring solution to fume hood. 
+5. Calibrate pH meter and place probe into solution
+6. Use a serological pipet to add NaOH to the solution dropwise to adjust pH to 7.5-8
+7. Transfer back to graduated cylinder or volumetric flask and fill to 1L.
+8. Autoclave to sterilize.
