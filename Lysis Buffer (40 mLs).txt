@@ -1,0 +1,25 @@
+﻿Lysis Buffer (40 mLs)
+
+
+Final concentration of solution:
+* 50mM Tris-HCl (pH = 8)
+* 100 mM EDTA
+* 100 mM NaCl
+* .5% SDS
+
+
+Reagents:
+
+
+* 2 mL 1M Tris-HCl (pH = 8)
+* 1.49 g EDTA
+* .234 g NaCl
+* 4 mL 5% SDS
+* ~40 mLs mqH2O
+
+
+Instructions:
+1. Add EDTA and NaCl into 50 mL Falcon tube
+2. Add Tris and SDS
+3. Fill to 40 mL with mqH2O
+4. Vortex thoroughly to dissolve all solutes.
