@@ -7,36 +7,42 @@ Making SPRI Beads
 Materials
 * Sera-mag SpeedBeads (1 mL)
 * PEG 8000 (9g)
-* TE Buffer (3mL, composed of .5 M EDTA and 1.0 M Tris, both at ph 8.0)\
-* * Tween 20 (27.5 μL)
+* TE Buffer (3mL, composed of .5 M EDTA and 1.0 M Tris, both at ph 8.0)
+* Tween 20 (27.5 μL)
 * 5M NaCl (10 mL)
 
 
 Making TE:
 * 10 mM Tris-HCl (500 μL)
 * 1 mM EDTA (100 μL)
-* 
+
 
         Fill into 50 mL conical vial and fill w/ H20. 
 
 
 Wash Beads:
 
-
-1 mL mixed beads => ep tube => magnet, pipet supernatant
-+ 1 mL TE, mix, return to magnet, pipet supernatant
-+ 1 mL TE mix, let stand (this will later be added)
+1. Put 1 mL of well-vortexed/homogenized beads into an eppendorf tube.
+2. Place on a magnet rack until all beads have left the solution. 
+3. Remove supernatant. 
+4. Add one mL TE, homogenize, and then remove supernatant. 
+5. Add one mL TE and homogenize. 
 
 
 In 50 mL conical:
 * 9g PEG 8000
 * 10 mL 5M NaCl
 * 500 μL 1M Tris-HCl
-* * 100 μL 0.5M EDTA
-* * Fill to 49 mL using dH20, mix until clear. 
+* 100 μL 0.5M EDTA
+* Fill to 49 mL using dH20, mix until clear. 
 * Add 27.5 μL Tween 20 & mix gently (10% Tween 20)
-* Bead solution, mix until brown. 
+* Add washed bead solution, mix until brown. 
 
+
+To test beads and figure out what the optimum bead/sample ratio is for a given batch, perform bead cleanups on 10 μL of ladder using differing ratios of bead/sample based on the following:
 
 Testing beads: .5 .6 .7 .8 .9 1 1.1 1.2 1.3 (bead : 1 ladder)
-10 μL ladder as sample
+
+So for .5 bead/sample you would use 5 μL bead solution and 10 μL ladder. 
+
+Take the resulting dna sample after resuspension and run it on an agarose gel. You are looking for the lane that removes the most short DNA molecules with minimal interference with the large DNA molecules.
