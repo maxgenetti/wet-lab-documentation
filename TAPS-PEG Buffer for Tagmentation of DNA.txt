@@ -1,0 +1,39 @@
+﻿Reagents required:
+
+1M sol’n MgCl2
+TAPS
+PEG 8000
+10M sol’n NaOH
+Ultrapure H20
+
+Protocol: 
+
+(Amounts given are for the creation of 100 mL of buffer). 
+
+1. Place 50 mL of UP H20 in a 125 mL autoclaved flask, and use an autoclaved magnetic stir bar to keep the solution stirring. 
+
+
+2. Add 25.28 g TAPS and allow to dissolve. 
+
+
+3. Add 5.210 mL 10M NaOH and allow solution to homogenize.
+
+
+4. Measure pH - it should measure 8.50 +-.01
+
+
+5. Add 2.5 mL 1M MgCl2
+
+
+6. In another 125 mL autoclaved flask, add a magnetic stir bar, and on top of that add 40g PEG 8000. 
+
+
+7. Pour the first flask over the contents of the second. This is to avoid the PEG 8000 forming a gel-like layer as soon as it falls into contact with the water, preventing the formation of a homogenuous mixture. 
+
+8. Cover the second solution with parafilm and leave it stirring overnight. 
+
+
+9. Using a serological pipet, pull the buffer out in 10 mL increments (+ one 5 m increment), adding 45 mL to each of two 50 mL falcon tubes. 
+
+
+10. Add 10 mL UP H20 to the flask containing the stir bar and remnants of the buffer and swirl, aiming to take the residue off the sides. Take 5 mL of this and add to each falcon tube, for a total volume of 50 mL.
