@@ -1,9 +1,6 @@
-﻿Lysis buffer (50mM Tris, 100 mM EDTA, 100mM NaCl, .5% SDS)
-	71uL
-	Proteinase K
-	4uL
-	Total
-	75uL
+Lysis buffer (50mM Tris, 100 mM EDTA, 100mM NaCl, .5% SDS)  71uL
+Proteinase K                                                4uL
+Total                                                       75uL
 	High-throughput gDNA extraction
 Fly Lysis:
 Complete lysis buffer recipe per lysis:
