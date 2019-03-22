@@ -1,4 +1,4 @@
-﻿Tagmentation:
+Tagmentation:
 Load Tn5:
 
 
@@ -15,45 +15,31 @@ Hold 25C
 5. Add equal volumes of A Tn5 and B Tn5 in tube and mix via pipetting.
         DNA tagmentation:
         Per rxn:
-Tn5
-	1uL
-	DEPC H2O
-	14uL
-	5x TAPS-PEG 8000
-	4uL
-	DNA input
-	1uL
-	Total volume
-	20uL
+Tn5                 1uL
+DEPC H2O            14uL
+5x TAPS-PEG 8000    4uL
+DNA input           1uL
+Total volume        20uL
 	
 
 1. Incubate each reaction at 55C for 7 minutes.
 2. Kill Tn5 by adding 5uL of .2% SDS and let sit at RT for 7 minutes
 PCR Indexing and amplification:
 1. Make a master mix with the following per rxn:
-DEPC H2O
-	11.75uL
-	5x KAPA HiFi buffer
-	5uL
-	dNTPs
-	.75uL
-	HiFi polymerase
-	.5uL
-	Total
-	18uL
+DEPC H2O                11.75uL
+5x KAPA HiFi buffer     5uL
+dNTPs                   .75uL
+HiFi polymerase         .5uL
+Total                   18uL
 	1. Add separately to each rxn:
 
 
 
 
-i7 index primer
-	1uL
-	i5 index primer
-	1uL
-	Tn5 product
-	5uL
-	Total
-	25uL
+i7 index primer 1uL
+i5 index primer 1uL
+Tn5 product     5uL
+Total           25uL
 	
 
 Run on following protocol:
