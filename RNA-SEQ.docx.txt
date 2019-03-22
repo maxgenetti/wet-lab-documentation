@@ -1,32 +1,21 @@
-﻿cDNA Synthesis
+cDNA Synthesis
 1. Thaw TSO primers (stored in -80c), dNTPs, RNAse Inhibitor (on ice), Smartscribe Buffer, DTT, and place on ice.
 2. Make cDNA reaction Mix #1 and Mix #2 simultaneously (sans RT)
 3. Make primer Mix #1 of 1:1 oligo-dT primer and dNTPs (2uL/reaction) and place on ice. Add 2 uL of RNA into strip tubes. Then add master mix #1.
 Mix #1
-cDNA synthesis primer Oligo-dT (10uM)
-	1uL
-	dNTPs (10mM)
-	1uL
-	RNA input (100ng/uL)
-	2uL
-	Total
-	4uL
+cDNA synthesis primer Oligo-dT (10uM)   1uL
+dNTPs (10mM)                            1 uL
+RNA input (100ng/uL)                    2uL
+Total               	                4uL
 	        
         Mix #2
-DEPC H2O
-	1.95uL
-	Smartscribe buffer (5x)
-	2uL
-	DTT (100mM)
-	1uL
-	TSO (100uM)
-	0.3uL
-	Superase-In
-	0.25uL
-	Superscript RT **
-	0.5uL
-	Total
-	6uL
+DEPC H2O                1.95uL
+Smartscribe buffer (5x) 2uL
+DTT (100mM)             1uL
+TSO (100uM)             0.3uL
+Superase-In             0.25uL
+Superscript RT **       0.5uL
+Total                   6uL
 	** Add RT just before use i.e. during denaturation reaction
 1. Denature Mix #1 + RNA input:
       1. Set lid temperature to 80c to not fry samples
@@ -44,18 +33,12 @@ Hold at 4C
 
 Amplification
 Amplification mix:
-2x KAPA Hifi HotStart ReadyMix
-	12.5uL
-	ISPCR Primers (10uM)
-	.125uL
-	Rnase A (1:10)*
-	1.125uL
-	Lambda Exonuclease (1:10)*
-	1.125uL
-	DEPC H2O
-	.125uL
-	Total
-	15uL
+2x KAPA Hifi HotStart ReadyMix  12.5uL
+ISPCR Primers (10uM)            .125uL
+Rnase A (1:10)*                 1.125uL
+Lambda Exonuclease (1:10)*      1.125uL
+DEPC H2O                        .125uL
+Total 15uL
 	* Rnase A and Lambda Exonuclease can be diluted 1:10 to save on reagents
 1. Add 15uL of Amplification Mix to each sample
 2. cDNA Amplification:
@@ -97,16 +80,11 @@ Hold 25C
 5. Add equal volumes of A Tn5 and B Tn5 in tube and mix via pipetting.
         DNA tagmentation:
         Per rxn:
-Tn5
-	1uL
-	DEPC H2O
-	14uL
-	5x TAPS-PEG 8000
-	4uL
-	DNA input
-	1uL
-	Total volume
-	20uL
+Tn5                 1uL 
+DEPC H2O            14uL 
+5x TAPS-PEG 8000    4uL
+DNA input           1uL
+Total volume        20uL
 	
 
 1. Incubate each reaction at 55C for 7 minutes.
@@ -121,27 +99,18 @@ Tn5
 
 PCR Indexing and amplification:
 1. Make a master mix with the following per rxn:
-DEPC H2O
-	11.75uL
-	5x KAPA HiFi buffer
-	5uL
-	dNTPs
-	.75uL
-	HiFi polymerase
-	.5uL
-	Total
-	18uL
+DEPC H2O            11.75uL
+5x KAPA HiFi buffer 5uL
+dNTPs               .75uL
+HiFi polymerase     .5uL
+Total               18uL
 	
 
 1. Add separately to each rxn:
-i7 index primer
-	1uL
-	i5 index primer
-	1uL
-	Tn5 product
-	5uL
-	Total
-	25uL
+i7 index primer 1uL
+i5 index primer 1uL
+Tn5 product     5uL
+Total           25uL
 	
 
 Run on following protocol:
