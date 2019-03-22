@@ -1,32 +1,19 @@
-﻿Day 1:
+Day 1:
 Sample Fixing and Lysis
 
 
 Lysis buffer (Prepare fresh every time -- 1mL needed per sample):
 Stock
-	Volume
-	Final
-	1M HEPES (pH = 7.6)
-	50uL
-	10mM
-	5M NaCl
-	10uL
-	10mM
-	10% IGEPAL CA-630
-	100uL
-	0.20%
-	25x Protease Inhibitors
-	200uL
-	1x
-	0.1M DTT
-	50uL
-	1mM
-	DEPC H2O
-	4.576mL
+	
+	1M HEPES (pH = 7.6)        50uL    10mM
+	5M NaCl                    10uL    10mM
+	10% IGEPAL CA-630          100uL   0.20%
+	25x Protease Inhibitors    200uL   1x
+	0.1M DTT                   50uL    1mM
+	DEPC H2O                   4.576mL
 	
 
-	Total
-	5mL
+	Total                      5mL
 	
 
 	
@@ -62,56 +49,37 @@ CORBETT LAB
 
 DpnII Digest (GREEN LAB)
 Resuspend beads in 50uL of the following mix:
-H2O
-	42.5uL
-	10x DpnII buffer
-	5 uL
-	100mM DTT
-	.5uL
-	DpnII
-	2uL
-	Total
-	50uL
+H2O                 42.5uL 
+10x DpnII buffer    5 uL 
+100mM DTT           .5uL
+DpnII               2uL
+Total               50uL
 	
 
 1. Digest for an hour at 37c with shaking
 2. Wash twice with 180uL HiC SPRI Wash Buffer
 End Fill-in
         Resuspend beads in 50uL of the following mix
-H2O
-	37uL
-	10x NEB Buffer #2
-	5uL
-	1mM Biotin dCTP
-	4uL
-	10mM dATP, dGTP, dTTP
-	1.5uL
-	100mM DTT
-	.5uL
-	Klenow
-	2uL
-	Total
-	50uL
+H2O                     37uL
+10x NEB Buffer #2       5uL
+1mM Biotin dCTP         4uL
+10mM dATP, dGTP, dTTP   1.5uL
+100mM DTT               .5uL
+Klenow                  2uL
+Total                   50uL
 	
 
 1. Incubate for 30 minutes at 25c with shaking
 2. Wash twice with 180uL HiC SPRI Wash Buffer
 Intra-Aggregate DNA End Ligation
 Resuspend beads in 200uL of ligation mix. BE CAREFUL TO NOT VORTEX LIGASE
-H2O
-	171uL
-	10x NEB T4 DNA Ligase buffer
-	20uL
-	100 mM ATP
-	1uL
-	BSA
-	1uL
-	10% Triton X-100
-	5uL
-	T4 DNA Ligase
-	2uL
-	Total
-	200uL
+H2O                             171uL
+10x NEB T4 DNA Ligase buffer    20uL
+100 mM ATP                      1uL
+BSA                             1uL
+10% Triton X-100                5uL
+T4 DNA Ligase                   2uL
+Total                           200uL
 	1. Ligate overnight in thermocycle or shaker at 16c. 
 
 
@@ -121,12 +89,9 @@ H2O
 
 Day 2:
 Crosslink Reversal
-Crosslink Reversal mix
-	48.5uL
-	Proteinase K (20mg/uL)
-	1.5uL
-	Total
-	50uL
+Crosslink Reversal mix  48.5uL
+Proteinase K (20mg/uL)  1.5uL
+Total                   50uL
 	
 
 1. Magnet reactions then resuspend in 50uL of Crosslink reversal mix.
@@ -159,16 +124,12 @@ RT for 60 minutes
 Use 50-100ng of DNA
 
 
-DEPC H2O
-	9 - X uL
-	DNA template
-	X uL
-	Tn5
-	5 uL
-	5x TAPS-PEG
-	4uL
-	Total
-	18uL
+DEPC H2O        9 - X uL
+DNA template    X uL
+Tn5             5 uL
+5x TAPS-PEG     4uL
+Total           18uL
+
 	1. Incubate at 55C for 7 minutes
 2. Add 2 uL of 2% SDS and incubate for 7 minutes at RT
 3. Add 5uL of 100mM DTT
@@ -184,16 +145,11 @@ DEPC H2O
    3. 2x 180uL TWB
 1. Bst fill-in:
 Resupend beads in:
-NEBuffer 2 or Thermopol buffer
-	2uL
-	dH2O
-	16uL
-	25mM dNTPs
-	1uL
-	Bst DNA pol
-	3uL
-	Total volume
-	22uL
+NEBuffer 2 or Thermopol buffer 2uL
+dH2O                           16uL
+25mM dNTPs                     1uL
+Bst DNA pol                    3uL
+Total volume                   22uL
 	
 
    1. Incubate at 37C for 30-45 minutes with shaking
@@ -201,19 +157,13 @@ NEBuffer 2 or Thermopol buffer
 CORBETT LAB
 PCR Indexing and amplification:
    1. Make a master mix with the following per rxn:
-DEPC H2O
-	23uL
-	2x KAPA HotStart ReadyMix
-	25uL
-	Total
-	48
+DEPC H2O                    23uL
+2x KAPA HotStart ReadyMix   25uL
+Total                       48
 	   1. Add separately to each rxn:
-i5 index primer (A)
-	1uL
-	i7 index primer (B)
-	1uL
-	Total
-	50uL
+i5 index primer (A) 1uL
+i7 index primer (B) 1uL
+Total               50uL
 	
 
 Run on following protocol:
