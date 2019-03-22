@@ -1,0 +1,16 @@
+﻿Prep: DNA should be run on size-selection gel with 1kb ladder. All wells in gen need to be filled; use DNA suspension buffer to fill each well to 20 µl. Do not use more than 150 ng of DNA per well, as this will cause the DNA to migrate improperly through the gel.
+
+PE buffer needs ethanol added. Look at the box on the top of the container; if it’s checked, it means the ethanol has already been added. Added ethanol should be 96-100%. 
+
+1. Excise DNA with a clean, sharp scalpel. Place in colorless tube (1.5 or 2 ml). 
+2. Get mass of gel. Add QG buffer at a ratio of 3 µl buffer to 1 mg gel. 
+3. Vortex well, approx 30 seconds. Set on lab shaker for 15-20 min. Check to make sure that all solid has completely dissolved by looking for refractory changes as you slosh the liquid around in the tube. If it has not, give it another 5 minutes on the shaker. 
+4. Place a QIAquick spin column in a 2 ml collection tube. Centrifuge for one minute at >12k rpm (max for whichever device being used). Discard flow-through and place column back into same tube. 
+5. Add 500 µl Buffer QG to the QIAquick column and centrifuge for 1 minute again. Discard flow-through. 
+6. Wash with 750 µl Buffer PE to column. Let stand 4 min. Centrifuge for 1 min and discard flowthrough.
+7. Centrifuge for 1 min in empty tube to remove residual wash buffer. 
+8. Place column into clean 1.5 ml tube. 
+9. Add 30 µl Buffer EB to the center of the membrane, let column stand for 4 min, then centrifuge for 1 min. Collect flowthrough. 
+
+
+(Modified from the following protocol for our lab setup)
