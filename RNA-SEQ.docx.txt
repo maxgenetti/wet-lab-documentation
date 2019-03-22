@@ -1,0 +1,171 @@
+﻿cDNA Synthesis
+1. Thaw TSO primers (stored in -80c), dNTPs, RNAse Inhibitor (on ice), Smartscribe Buffer, DTT, and place on ice.
+2. Make cDNA reaction Mix #1 and Mix #2 simultaneously (sans RT)
+3. Make primer Mix #1 of 1:1 oligo-dT primer and dNTPs (2uL/reaction) and place on ice. Add 2 uL of RNA into strip tubes. Then add master mix #1.
+Mix #1
+cDNA synthesis primer Oligo-dT (10uM)
+	1uL
+	dNTPs (10mM)
+	1uL
+	RNA input (100ng/uL)
+	2uL
+	Total
+	4uL
+	        
+        Mix #2
+DEPC H2O
+	1.95uL
+	Smartscribe buffer (5x)
+	2uL
+	DTT (100mM)
+	1uL
+	TSO (100uM)
+	0.3uL
+	Superase-In
+	0.25uL
+	Superscript RT **
+	0.5uL
+	Total
+	6uL
+	** Add RT just before use i.e. during denaturation reaction
+1. Denature Mix #1 + RNA input:
+      1. Set lid temperature to 80c to not fry samples
+      2. 72C for 3 minutes
+1. While denaturing add RT to Mix #2 
+2. Immediately place samples on ice
+3. Open sample lids to allow them to evaporate as they cool to concentrate the primers. 
+4. Add 6uL of Mix #2 to each sample vortex and spin down.
+5. cDNA First strand synthesis:
+Prewarm thermocycler to 42C
+42C for 60 minutes
+70C for 5 minutes
+Hold at 4C
+
+
+Amplification
+Amplification mix:
+2x KAPA Hifi HotStart ReadyMix
+	12.5uL
+	ISPCR Primers (10uM)
+	.125uL
+	Rnase A (1:10)*
+	1.125uL
+	Lambda Exonuclease (1:10)*
+	1.125uL
+	DEPC H2O
+	.125uL
+	Total
+	15uL
+	* Rnase A and Lambda Exonuclease can be diluted 1:10 to save on reagents
+1. Add 15uL of Amplification Mix to each sample
+2. cDNA Amplification:
+37C for 30 minutes
+95C for 3 minutes
+98C for 20 seconds
+67C for 15 seconds
+72C for 4 minutes
+Repeat from step 3 13-16x
+72C for 5 minutes
+Hold at 4C
+1. Bring SPRI beads up to RT ~20 minutes
+2. Add 20uL of beads to each reaction and mix via pipetting 10 times.
+3. Let incubate for 5 minutes.
+4. Place on magnet until solution is clear and draw out supernatant without disturbing bead pellet
+5. Wash bead pellet on magnet 2x with 180uL of 80% EtOH.
+6. Spin down and magnet then remove remaining EtOH with P2/10
+7. Let air dry till all EtOH has evaporated and pellet begins to crack.
+8. Resuspend beads with 30 uL of 10mM Tris (pH = 8.5)/TE/DEPC H2O and incubate for 2-5 minutes
+9. Place on magnet until solution is clear and collect the supernatant and put into fresh .2mL tube
+10. cDNA can be stored at -20c. 
+QC:
+1. Use Qubit to quantify concentration of 4-5 samples if doing a plate.
+2. Run 5uL of each sample on a gel to visualize distribution of cDNA product. Sizes should range primarily between 600bp-1.5kb. <300bp should be negligible. 
+
+
+Tagmentation:
+Load Tn5:
+Reagents:
+• 100 uM Tn5 A and B oligo
+• 100 uM Tn5 R oligo
+1. Add equal volumes of 100 uM A oligo to R oligo
+2. Add equal volumes of 100 uM B oligo to R oligo
+3.  Anneal using:
+95C 5 minutes
+25C (-0.1C/s)
+Hold 25C
+4. Add .143uL of annealed oligo to 1 uL of Tn5 per rxn and incubate for 1 hour at RT
+5. Add equal volumes of A Tn5 and B Tn5 in tube and mix via pipetting.
+        DNA tagmentation:
+        Per rxn:
+Tn5
+	1uL
+	DEPC H2O
+	14uL
+	5x TAPS-PEG 8000
+	4uL
+	DNA input
+	1uL
+	Total volume
+	20uL
+	
+
+1. Incubate each reaction at 55C for 7 minutes.
+2. Kill Tn5 by adding 5uL of .2% SDS and let sit at RT for 7 minutes
+
+
+
+
+
+
+
+
+PCR Indexing and amplification:
+1. Make a master mix with the following per rxn:
+DEPC H2O
+	11.75uL
+	5x KAPA HiFi buffer
+	5uL
+	dNTPs
+	.75uL
+	HiFi polymerase
+	.5uL
+	Total
+	18uL
+	
+
+1. Add separately to each rxn:
+i7 index primer
+	1uL
+	i5 index primer
+	1uL
+	Tn5 product
+	5uL
+	Total
+	25uL
+	
+
+Run on following protocol:
+1. 72C 5 minutes
+2. 95C 3 minutes
+3. 98C 20 sec
+4. 65C 15 sec
+5. 72C 30 sec
+6. Repeat from step 2 10x
+7. 72C for 5 minutes
+8. Hold at 4C
+Purify library:
+1. Bring SPRI beads up to RT ~20 minutes
+2. Add 40uL of beads to each reaction and mix via pipetting 10 times.
+3. Let incubate for 2 minutes.
+4. Place on magnet until solution is clear and draw out supernatant without disturbing bead pellet
+5. Wash bead pellet on magnet 2x with 180uL of 80% EtOH.
+6. Spin down and magnet then remove remaining EtOH with P2/10
+7. Let air dry till all EtOH has evaporated and pellet begins to crack.
+8. Resuspend beads with 15-25 uL of TE/10mM Tris/DEPC H2O and incubate for 2-5 minutes
+9. Place on magnet until solution is clear and collect the supernatant and put into fresh .2mL tube
+
+
+QC:
+1. Use Qubit to quantify concentration of all samples.
+2. Pool all samples based on equal ng amounts.
+3. Size select on 2% E-gel from 300bp-800bp.
