@@ -8,7 +8,7 @@ Final concentration of solution:
 * .5% SDS
 
 
-Reagents:
+Reagents: 
 
 
 * 2 mL 1M Tris-HCl (pH = 8)
